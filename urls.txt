@@ -1,0 +1,2 @@
+http://localhost:15157/Widget/intermediate/dispatch?kind=finder&filter-country=BE&filter-type=smart-workcenter
+http://localhost:15157/Widget/intermediate/dispatch?kind=finder-fetched&filter-country=BE&filter-type=smart-workcenter&place=bruxelles&view=1
